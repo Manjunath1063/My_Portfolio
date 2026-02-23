@@ -82,9 +82,9 @@ portfolio/
 
 ## 📬 Contact Me
 
-- 📧 Email: your-email@example.com
-- 💻 GitHub: https://github.com/yourusername
-- 🔗 LinkedIn: https://linkedin.com/in/yourprofile
+- 📧 Email: umanjunath7210@gmail.com
+- 💻 GitHub: https://github.com/Manjunath1063
+- 🔗 LinkedIn: https://www.linkedin.com/in/u-manjunath-9ab513288
 
 ---
 
